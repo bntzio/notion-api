@@ -1,0 +1,12 @@
+{
+  "name": "notion-api",
+  "version": "0.1.0",
+  "description": "Notion API wrapper",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/notion-api.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "bin": {
+    "notion": "cli.js"
+  }
+}
